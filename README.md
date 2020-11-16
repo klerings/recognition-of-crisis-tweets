@@ -1,4 +1,4 @@
-# Mono-CrosslingualeErkennungVonKrisentweets
+# Mono- and cross-lingual recognition of crisis tweets
 
 This is the repository for the Software Project(WS2020) at Department of Computational Linguistics, Heidelberg University, Germany.
 
