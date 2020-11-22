@@ -5,7 +5,7 @@ This is the repository for the Software Project(WS2020) at Department of Computa
 Contributor: 
 - Jin Huang [@jinhuang-de](https://www.github.com/jinhuang-de)
 - Sarah Uhrig  [@suhrignlp](https://www.github.com/suhrignlp)
-- Mingyang He  [@346390810](https://www.github.com/346390810)
+- Mingyang He  [@MingyangHeseri](https://www.github.com/MingyangHeseri)
 
 
 ### Project structure:
